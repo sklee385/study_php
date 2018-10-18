@@ -1,0 +1,12 @@
+{
+    "name": "adsound/study_php",
+    "authors": [
+        {
+            "name": "sklee",
+            "email": "sklee385@gmail.com"
+        }
+    ],
+    "require": {
+        "dflydev/markdown": "^1.0"
+    }
+}
